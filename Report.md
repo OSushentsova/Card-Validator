@@ -18,6 +18,6 @@
 Ожидаемый результат при проверке подобных карт - номер валиден.
 
 Окружение:
-Windows [Version 10.0.18362.1016]
-Java Windows [Version 10.0.18362.1016]
+Windows [Version 10.0.18362.1016] <br>
+Java Windows [Version 10.0.18362.1016]<br>
 IntelliJ IDEA Community 2020.2
