@@ -19,5 +19,5 @@
 
 Окружение:<br>
 Windows [Version 10.0.18362.1016] <br>
-Java Windows [Version 10.0.18362.1016]<br>
+Java openjdk version "11.0.8"<br>
 IntelliJ IDEA Community 2020.2
