@@ -6,8 +6,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-[Credit Card Number Validator] Валидные карты, в номере которых менее 16 символов, не проходят валидацию (https://github.com/OSushentsova/Card-Validator/issues/1)
-[Credit Card Number Validator] Валидные карты, в номере которых более 16 символов, не проходят валидацию (https://github.com/OSushentsova/Card-Validator/issues/2)
+1. [Credit Card Number Validator] Валидные карты, в номере которых менее 16 символов, не проходят валидацию (https://github.com/OSushentsova/Card-Validator/issues/1)
+2. [Credit Card Number Validator] Валидные карты, в номере которых более 16 символов, не проходят валидацию (https://github.com/OSushentsova/Card-Validator/issues/2)
 
 Описание процесса тестирования
 
